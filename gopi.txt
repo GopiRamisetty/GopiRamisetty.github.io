@@ -1,0 +1,1751 @@
+================================================================================
+Update items structure log file generated on 2019-12-10 at 12:46:22 PM
+================================================================================
+
+================================================================================
+Step : 1
+Action Type : Provided Part Creation
+Concerned Item : 09-bielle (09-bielle.2)
+Concerned Product/Fastener : 09-bielle A.1 (09-bielle.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 2
+Action Type : Provided Part Creation
+Concerned Item : 30-goupille (30-goupille.2)
+Concerned Product/Fastener : 30-goupille A.1 (30-goupille.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 3
+Action Type : Provided Part Creation
+Concerned Item : 31-goupille (31-goupille.3)
+Concerned Product/Fastener : 31-goupille A.1 (31-goupille.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 4
+Action Type : Provided Part Creation
+Concerned Item : 09-bielle (09-bielle.3)
+Concerned Product/Fastener : 09-bielle A.1 (09-bielle.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 5
+Action Type : Provided Part Creation
+Concerned Item : 30-goupille (30-goupille.3)
+Concerned Product/Fastener : 30-goupille A.1 (30-goupille.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 6
+Action Type : Provided Part Creation
+Concerned Item : 31-goupille (31-goupille.4)
+Concerned Product/Fastener : 31-goupille A.1 (31-goupille.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 7
+Action Type : Provided Part Creation
+Concerned Item : 09-bielle (09-bielle.4)
+Concerned Product/Fastener : 09-bielle A.1 (09-bielle.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 8
+Action Type : Provided Part Creation
+Concerned Item : 30-goupille (30-goupille.4)
+Concerned Product/Fastener : 30-goupille A.1 (30-goupille.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 9
+Action Type : Provided Part Creation
+Concerned Item : 31-goupille (31-goupille.5)
+Concerned Product/Fastener : 31-goupille A.1 (31-goupille.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 10
+Action Type : Provided Part Creation
+Concerned Item : 09-bielle (09-bielle.5)
+Concerned Product/Fastener : 09-bielle A.1 (09-bielle.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 11
+Action Type : Provided Part Creation
+Concerned Item : 31-goupille (31-goupille.6)
+Concerned Product/Fastener : 31-goupille A.1 (31-goupille.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 12
+Action Type : Provided Part Creation
+Concerned Item : 30-goupille (30-goupille.5)
+Concerned Product/Fastener : 30-goupille A.1 (30-goupille.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 13
+Action Type : Provided Part Creation
+Concerned Item : 09-bielle (09-bielle.6)
+Concerned Product/Fastener : 09-bielle A.1 (09-bielle.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 14
+Action Type : Provided Part Creation
+Concerned Item : 31-goupille (31-goupille.7)
+Concerned Product/Fastener : 31-goupille A.1 (31-goupille.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 15
+Action Type : Provided Part Creation
+Concerned Item : 30-goupille (30-goupille.6)
+Concerned Product/Fastener : 30-goupille A.1 (30-goupille.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 16
+Action Type : Provided Part Creation
+Concerned Item : 31-goupille (31-goupille.8)
+Concerned Product/Fastener : 31-goupille A.1 (31-goupille.8)
+Parent Item : prasant radial engine
+================================================================================
+Step : 17
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-adm (50-bloc-culbuteur-adm.2)
+Concerned Product/Fastener : 50-bloc-culbuteur-adm A.1 (50-bloc-culbuteur-adm.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 18
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-adm (50-bloc-culbuteur-adm.3)
+Concerned Product/Fastener : 50-bloc-culbuteur-adm A.1 (50-bloc-culbuteur-adm.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 19
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-adm (50-bloc-culbuteur-adm.4)
+Concerned Product/Fastener : 50-bloc-culbuteur-adm A.1 (50-bloc-culbuteur-adm.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 20
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-adm (50-bloc-culbuteur-adm.5)
+Concerned Product/Fastener : 50-bloc-culbuteur-adm A.1 (50-bloc-culbuteur-adm.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 21
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-adm (50-bloc-culbuteur-adm.6)
+Concerned Product/Fastener : 50-bloc-culbuteur-adm A.1 (50-bloc-culbuteur-adm.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 22
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-adm (50-bloc-culbuteur-adm.7)
+Concerned Product/Fastener : 50-bloc-culbuteur-adm A.1 (50-bloc-culbuteur-adm.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 23
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.3)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 24
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.4)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 25
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.5)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 26
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.6)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 27
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.7)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 28
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.8)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.8)
+Parent Item : prasant radial engine
+================================================================================
+Step : 29
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.2)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 30
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.3)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 31
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.4)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 32
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.5)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 33
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.6)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 34
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.7)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 35
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.2)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 36
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.3)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 37
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.4)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 38
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.5)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 39
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.6)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 40
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.7)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 41
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.9)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.9)
+Parent Item : prasant radial engine
+================================================================================
+Step : 42
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.8)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.8)
+Parent Item : prasant radial engine
+================================================================================
+Step : 43
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.8)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.8)
+Parent Item : prasant radial engine
+================================================================================
+Step : 44
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.10)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.10)
+Parent Item : prasant radial engine
+================================================================================
+Step : 45
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.11)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.11)
+Parent Item : prasant radial engine
+================================================================================
+Step : 46
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.12)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.12)
+Parent Item : prasant radial engine
+================================================================================
+Step : 47
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.13)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.13)
+Parent Item : prasant radial engine
+================================================================================
+Step : 48
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.14)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.14)
+Parent Item : prasant radial engine
+================================================================================
+Step : 49
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.15)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.15)
+Parent Item : prasant radial engine
+================================================================================
+Step : 50
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.9)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.9)
+Parent Item : prasant radial engine
+================================================================================
+Step : 51
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.10)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.10)
+Parent Item : prasant radial engine
+================================================================================
+Step : 52
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.11)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.11)
+Parent Item : prasant radial engine
+================================================================================
+Step : 53
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.12)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.12)
+Parent Item : prasant radial engine
+================================================================================
+Step : 54
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.13)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.13)
+Parent Item : prasant radial engine
+================================================================================
+Step : 55
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.14)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.14)
+Parent Item : prasant radial engine
+================================================================================
+Step : 56
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-ech (50-bloc-culbuteur-ech.2)
+Concerned Product/Fastener : 50-bloc-culbuteur-ech A.1 (50-bloc-culbuteur-ech.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 57
+Action Type : Items Structure Creation
+Concerned Item : cylindre (cylindre.1)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 58
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 59
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 60
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 61
+Action Type : Provided Part Creation
+Concerned Item : 37-pied-de-cylindre (37-pied-de-cylindre.1)
+Concerned Product/Fastener : 37-pied-de-cylindre A.1 (37-pied-de-cylindre.1)
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 62
+Action Type : Provided Part Creation
+Concerned Item : 36-chemise-de-piston (36-chemise-de-piston.1)
+Concerned Product/Fastener : 36-chemise-de-piston A.1 (36-chemise-de-piston.1)
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 63
+Action Type : Items Structure Creation
+Concerned Item : culasse (culasse.1)
+Concerned Product/Fastener : 
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 64
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.2)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 65
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.2)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 66
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 67
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 68
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 69
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.2)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 70
+Action Type : Provided Part Creation
+Concerned Item : 41-tete-de-cylindre (41-tete-de-cylindre.1)
+Concerned Product/Fastener : 41-tete-de-cylindre A.1 (41-tete-de-cylindre.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 71
+Action Type : Provided Part Creation
+Concerned Item : 48-bloc-culbuteur (48-bloc-culbuteur.1)
+Concerned Product/Fastener : 48-bloc-culbuteur A.1 (48-bloc-culbuteur.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 72
+Action Type : Provided Part Creation
+Concerned Item : 51-axe (51-axe.1)
+Concerned Product/Fastener : 51-axe A.1 (51-axe.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 73
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.1)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 74
+Action Type : Provided Part Creation
+Concerned Item : 54-Douille-entretoise (54-Douille-entretoise.1)
+Concerned Product/Fastener : 54-Douille-entretoise A.1 (54-Douille-entretoise.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 75
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.1)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 76
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 77
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.1)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 78
+Action Type : Provided Part Creation
+Concerned Item : 40-joint-de-tete-de-cyl (40-joint-de-tete-de-cyl.1)
+Concerned Product/Fastener : 40-joint-de-tete-de-cyl A.1 (40-joint-de-tete-de-cyl.1)
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 79
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : cylindre (cylindre.1)
+================================================================================
+Step : 80
+Action Type : Items Structure Creation
+Concerned Item : cylindre (cylindre.2)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 81
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 82
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 83
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 84
+Action Type : Provided Part Creation
+Concerned Item : 37-pied-de-cylindre (37-pied-de-cylindre.1)
+Concerned Product/Fastener : 37-pied-de-cylindre A.1 (37-pied-de-cylindre.1)
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 85
+Action Type : Provided Part Creation
+Concerned Item : 36-chemise-de-piston (36-chemise-de-piston.1)
+Concerned Product/Fastener : 36-chemise-de-piston A.1 (36-chemise-de-piston.1)
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 86
+Action Type : Items Structure Creation
+Concerned Item : culasse (culasse.1)
+Concerned Product/Fastener : 
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 87
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.2)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 88
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.2)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 89
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 90
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 91
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 92
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.2)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 93
+Action Type : Provided Part Creation
+Concerned Item : 41-tete-de-cylindre (41-tete-de-cylindre.1)
+Concerned Product/Fastener : 41-tete-de-cylindre A.1 (41-tete-de-cylindre.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 94
+Action Type : Provided Part Creation
+Concerned Item : 48-bloc-culbuteur (48-bloc-culbuteur.1)
+Concerned Product/Fastener : 48-bloc-culbuteur A.1 (48-bloc-culbuteur.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 95
+Action Type : Provided Part Creation
+Concerned Item : 51-axe (51-axe.1)
+Concerned Product/Fastener : 51-axe A.1 (51-axe.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 96
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.1)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 97
+Action Type : Provided Part Creation
+Concerned Item : 54-Douille-entretoise (54-Douille-entretoise.1)
+Concerned Product/Fastener : 54-Douille-entretoise A.1 (54-Douille-entretoise.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 98
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.1)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 99
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 100
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.1)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 101
+Action Type : Provided Part Creation
+Concerned Item : 40-joint-de-tete-de-cyl (40-joint-de-tete-de-cyl.1)
+Concerned Product/Fastener : 40-joint-de-tete-de-cyl A.1 (40-joint-de-tete-de-cyl.1)
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 102
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : cylindre (cylindre.2)
+================================================================================
+Step : 103
+Action Type : Items Structure Creation
+Concerned Item : cylindre (cylindre.3)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 104
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 105
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 106
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 107
+Action Type : Provided Part Creation
+Concerned Item : 37-pied-de-cylindre (37-pied-de-cylindre.1)
+Concerned Product/Fastener : 37-pied-de-cylindre A.1 (37-pied-de-cylindre.1)
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 108
+Action Type : Provided Part Creation
+Concerned Item : 36-chemise-de-piston (36-chemise-de-piston.1)
+Concerned Product/Fastener : 36-chemise-de-piston A.1 (36-chemise-de-piston.1)
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 109
+Action Type : Items Structure Creation
+Concerned Item : culasse (culasse.1)
+Concerned Product/Fastener : 
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 110
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.2)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 111
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.2)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 112
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 113
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 114
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 115
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.2)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 116
+Action Type : Provided Part Creation
+Concerned Item : 41-tete-de-cylindre (41-tete-de-cylindre.1)
+Concerned Product/Fastener : 41-tete-de-cylindre A.1 (41-tete-de-cylindre.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 117
+Action Type : Provided Part Creation
+Concerned Item : 48-bloc-culbuteur (48-bloc-culbuteur.1)
+Concerned Product/Fastener : 48-bloc-culbuteur A.1 (48-bloc-culbuteur.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 118
+Action Type : Provided Part Creation
+Concerned Item : 51-axe (51-axe.1)
+Concerned Product/Fastener : 51-axe A.1 (51-axe.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 119
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.1)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 120
+Action Type : Provided Part Creation
+Concerned Item : 54-Douille-entretoise (54-Douille-entretoise.1)
+Concerned Product/Fastener : 54-Douille-entretoise A.1 (54-Douille-entretoise.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 121
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.1)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 122
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 123
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.1)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 124
+Action Type : Provided Part Creation
+Concerned Item : 40-joint-de-tete-de-cyl (40-joint-de-tete-de-cyl.1)
+Concerned Product/Fastener : 40-joint-de-tete-de-cyl A.1 (40-joint-de-tete-de-cyl.1)
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 125
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : cylindre (cylindre.3)
+================================================================================
+Step : 126
+Action Type : Items Structure Creation
+Concerned Item : cylindre (cylindre.4)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 127
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 128
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 129
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 130
+Action Type : Provided Part Creation
+Concerned Item : 37-pied-de-cylindre (37-pied-de-cylindre.1)
+Concerned Product/Fastener : 37-pied-de-cylindre A.1 (37-pied-de-cylindre.1)
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 131
+Action Type : Provided Part Creation
+Concerned Item : 36-chemise-de-piston (36-chemise-de-piston.1)
+Concerned Product/Fastener : 36-chemise-de-piston A.1 (36-chemise-de-piston.1)
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 132
+Action Type : Items Structure Creation
+Concerned Item : culasse (culasse.1)
+Concerned Product/Fastener : 
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 133
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.2)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 134
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.2)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 135
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 136
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 137
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 138
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.2)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 139
+Action Type : Provided Part Creation
+Concerned Item : 41-tete-de-cylindre (41-tete-de-cylindre.1)
+Concerned Product/Fastener : 41-tete-de-cylindre A.1 (41-tete-de-cylindre.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 140
+Action Type : Provided Part Creation
+Concerned Item : 48-bloc-culbuteur (48-bloc-culbuteur.1)
+Concerned Product/Fastener : 48-bloc-culbuteur A.1 (48-bloc-culbuteur.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 141
+Action Type : Provided Part Creation
+Concerned Item : 51-axe (51-axe.1)
+Concerned Product/Fastener : 51-axe A.1 (51-axe.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 142
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.1)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 143
+Action Type : Provided Part Creation
+Concerned Item : 54-Douille-entretoise (54-Douille-entretoise.1)
+Concerned Product/Fastener : 54-Douille-entretoise A.1 (54-Douille-entretoise.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 144
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.1)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 145
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 146
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.1)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 147
+Action Type : Provided Part Creation
+Concerned Item : 40-joint-de-tete-de-cyl (40-joint-de-tete-de-cyl.1)
+Concerned Product/Fastener : 40-joint-de-tete-de-cyl A.1 (40-joint-de-tete-de-cyl.1)
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 148
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : cylindre (cylindre.4)
+================================================================================
+Step : 149
+Action Type : Items Structure Creation
+Concerned Item : cylindre (cylindre.5)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 150
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 151
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 152
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 153
+Action Type : Provided Part Creation
+Concerned Item : 37-pied-de-cylindre (37-pied-de-cylindre.1)
+Concerned Product/Fastener : 37-pied-de-cylindre A.1 (37-pied-de-cylindre.1)
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 154
+Action Type : Provided Part Creation
+Concerned Item : 36-chemise-de-piston (36-chemise-de-piston.1)
+Concerned Product/Fastener : 36-chemise-de-piston A.1 (36-chemise-de-piston.1)
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 155
+Action Type : Items Structure Creation
+Concerned Item : culasse (culasse.1)
+Concerned Product/Fastener : 
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 156
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.2)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 157
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.2)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 158
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 159
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 160
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 161
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.2)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 162
+Action Type : Provided Part Creation
+Concerned Item : 41-tete-de-cylindre (41-tete-de-cylindre.1)
+Concerned Product/Fastener : 41-tete-de-cylindre A.1 (41-tete-de-cylindre.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 163
+Action Type : Provided Part Creation
+Concerned Item : 48-bloc-culbuteur (48-bloc-culbuteur.1)
+Concerned Product/Fastener : 48-bloc-culbuteur A.1 (48-bloc-culbuteur.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 164
+Action Type : Provided Part Creation
+Concerned Item : 51-axe (51-axe.1)
+Concerned Product/Fastener : 51-axe A.1 (51-axe.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 165
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.1)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 166
+Action Type : Provided Part Creation
+Concerned Item : 54-Douille-entretoise (54-Douille-entretoise.1)
+Concerned Product/Fastener : 54-Douille-entretoise A.1 (54-Douille-entretoise.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 167
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.1)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 168
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 169
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.1)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 170
+Action Type : Provided Part Creation
+Concerned Item : 40-joint-de-tete-de-cyl (40-joint-de-tete-de-cyl.1)
+Concerned Product/Fastener : 40-joint-de-tete-de-cyl A.1 (40-joint-de-tete-de-cyl.1)
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 171
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : cylindre (cylindre.5)
+================================================================================
+Step : 172
+Action Type : Items Structure Creation
+Concerned Item : cylindre (cylindre.6)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 173
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 174
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 175
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 176
+Action Type : Provided Part Creation
+Concerned Item : 37-pied-de-cylindre (37-pied-de-cylindre.1)
+Concerned Product/Fastener : 37-pied-de-cylindre A.1 (37-pied-de-cylindre.1)
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 177
+Action Type : Provided Part Creation
+Concerned Item : 36-chemise-de-piston (36-chemise-de-piston.1)
+Concerned Product/Fastener : 36-chemise-de-piston A.1 (36-chemise-de-piston.1)
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 178
+Action Type : Items Structure Creation
+Concerned Item : culasse (culasse.1)
+Concerned Product/Fastener : 
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 179
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.2)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 180
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.2)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 181
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 182
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 183
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 184
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.2)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 185
+Action Type : Provided Part Creation
+Concerned Item : 41-tete-de-cylindre (41-tete-de-cylindre.1)
+Concerned Product/Fastener : 41-tete-de-cylindre A.1 (41-tete-de-cylindre.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 186
+Action Type : Provided Part Creation
+Concerned Item : 48-bloc-culbuteur (48-bloc-culbuteur.1)
+Concerned Product/Fastener : 48-bloc-culbuteur A.1 (48-bloc-culbuteur.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 187
+Action Type : Provided Part Creation
+Concerned Item : 51-axe (51-axe.1)
+Concerned Product/Fastener : 51-axe A.1 (51-axe.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 188
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.1)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 189
+Action Type : Provided Part Creation
+Concerned Item : 54-Douille-entretoise (54-Douille-entretoise.1)
+Concerned Product/Fastener : 54-Douille-entretoise A.1 (54-Douille-entretoise.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 190
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.1)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 191
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 192
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.1)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 193
+Action Type : Provided Part Creation
+Concerned Item : 40-joint-de-tete-de-cyl (40-joint-de-tete-de-cyl.1)
+Concerned Product/Fastener : 40-joint-de-tete-de-cyl A.1 (40-joint-de-tete-de-cyl.1)
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 194
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : cylindre (cylindre.6)
+================================================================================
+Step : 195
+Action Type : Items Structure Creation
+Concerned Item : cylindre (cylindre.7)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 196
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 197
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 198
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 199
+Action Type : Provided Part Creation
+Concerned Item : 37-pied-de-cylindre (37-pied-de-cylindre.1)
+Concerned Product/Fastener : 37-pied-de-cylindre A.1 (37-pied-de-cylindre.1)
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 200
+Action Type : Provided Part Creation
+Concerned Item : 36-chemise-de-piston (36-chemise-de-piston.1)
+Concerned Product/Fastener : 36-chemise-de-piston A.1 (36-chemise-de-piston.1)
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 201
+Action Type : Items Structure Creation
+Concerned Item : culasse (culasse.1)
+Concerned Product/Fastener : 
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 202
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.2)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 203
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.2)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 204
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.2)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 205
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.3)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.3)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 206
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.4)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.4)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 207
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.2)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.2)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 208
+Action Type : Provided Part Creation
+Concerned Item : 41-tete-de-cylindre (41-tete-de-cylindre.1)
+Concerned Product/Fastener : 41-tete-de-cylindre A.1 (41-tete-de-cylindre.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 209
+Action Type : Provided Part Creation
+Concerned Item : 48-bloc-culbuteur (48-bloc-culbuteur.1)
+Concerned Product/Fastener : 48-bloc-culbuteur A.1 (48-bloc-culbuteur.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 210
+Action Type : Provided Part Creation
+Concerned Item : 51-axe (51-axe.1)
+Concerned Product/Fastener : 51-axe A.1 (51-axe.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 211
+Action Type : Provided Part Creation
+Concerned Item : 52-rondelle-frein (52-rondelle-frein.1)
+Concerned Product/Fastener : 52-rondelle-frein A.1 (52-rondelle-frein.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 212
+Action Type : Provided Part Creation
+Concerned Item : 54-Douille-entretoise (54-Douille-entretoise.1)
+Concerned Product/Fastener : 54-Douille-entretoise A.1 (54-Douille-entretoise.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 213
+Action Type : Provided Part Creation
+Concerned Item : 49-vis-six-pans (49-vis-six-pans.1)
+Concerned Product/Fastener : 49-vis-six-pans A.1 (49-vis-six-pans.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 214
+Action Type : Provided Part Creation
+Concerned Item : 42-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 42-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 215
+Action Type : Provided Part Creation
+Concerned Item : 60-ecrou (60-ecrou.1)
+Concerned Product/Fastener : 60-ecrou A.1 (60-ecrou.1)
+Parent Item : culasse (culasse.1)
+================================================================================
+Step : 216
+Action Type : Provided Part Creation
+Concerned Item : 40-joint-de-tete-de-cyl (40-joint-de-tete-de-cyl.1)
+Concerned Product/Fastener : 40-joint-de-tete-de-cyl A.1 (40-joint-de-tete-de-cyl.1)
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 217
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (39-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (39-vis-de-fixation.1)
+Parent Item : cylindre (cylindre.7)
+================================================================================
+Step : 218
+Action Type : Provided Part Creation
+Concerned Item : 09-couronne-de-vilebrequin (09-couronne-de-vilebrequin.1)
+Concerned Product/Fastener : 09-couronne-de-vilebrequin A.1 (09-couronne-de-vilebrequin.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 219
+Action Type : Provided Part Creation
+Concerned Item : 11-couronne-de-transmission (11-couronne-de-transmission.1)
+Concerned Product/Fastener : 11-couronne-de-transmission A.1 (11-couronne-de-transmission.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 220
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (81-vis-de-fixation.1)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (81-vis-de-fixation.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 221
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (81-vis-de-fixation.2)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (81-vis-de-fixation.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 222
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (81-vis-de-fixation.3)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (81-vis-de-fixation.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 223
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (81-vis-de-fixation.4)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (81-vis-de-fixation.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 224
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (81-vis-de-fixation.5)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (81-vis-de-fixation.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 225
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (81-vis-de-fixation.6)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (81-vis-de-fixation.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 226
+Action Type : Provided Part Creation
+Concerned Item : 81-vis-de-fixation (81-vis-de-fixation.7)
+Concerned Product/Fastener : 81-vis-de-fixation A.1 (81-vis-de-fixation.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 227
+Action Type : Provided Part Creation
+Concerned Item : 16-roulement (16-roulement.1)
+Concerned Product/Fastener : 16-roulement A.1 (16-roulement.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 228
+Action Type : Provided Part Creation
+Concerned Item : 74-cone-d'helice (74-cone-d'helice.1)
+Concerned Product/Fastener : 74-cone-d'helice A.1 (74-cone-d'helice.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 229
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.1)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 230
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.2)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 231
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.3)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 232
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.4)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 233
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.5)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 234
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.6)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 235
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.7)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 236
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.8)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.8)
+Parent Item : prasant radial engine
+================================================================================
+Step : 237
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.9)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.9)
+Parent Item : prasant radial engine
+================================================================================
+Step : 238
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.10)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.10)
+Parent Item : prasant radial engine
+================================================================================
+Step : 239
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.11)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.11)
+Parent Item : prasant radial engine
+================================================================================
+Step : 240
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.12)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.12)
+Parent Item : prasant radial engine
+================================================================================
+Step : 241
+Action Type : Provided Part Creation
+Concerned Item : 20-vis-de-fixation (20-vis-de-fixation.13)
+Concerned Product/Fastener : 20-vis-de-fixation A.1 (20-vis-de-fixation.13)
+Parent Item : prasant radial engine
+================================================================================
+Step : 242
+Action Type : Provided Part Creation
+Concerned Item : 12-roue-de-transmission (12-roue-de-transmission.1)
+Concerned Product/Fastener : 12-roue-de-transmission A.1 (12-roue-de-transmission.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 243
+Action Type : Provided Part Creation
+Concerned Item : 24-couvercle (24-couvercle.1)
+Concerned Product/Fastener : 24-couvercle A.1 (24-couvercle.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 244
+Action Type : Provided Part Creation
+Concerned Item : 23-entretoise (23-entretoise.1)
+Concerned Product/Fastener : 23-entretoise A.1 (23-entretoise.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 245
+Action Type : Provided Part Creation
+Concerned Item : 26-circlips (26-circlips.1)
+Concerned Product/Fastener : 26-circlips A.1 (26-circlips.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 246
+Action Type : Provided Part Creation
+Concerned Item : 25-vis-de-fixation (25-vis-de-fixation.1)
+Concerned Product/Fastener : 25-vis-de-fixation A.1 (25-vis-de-fixation.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 247
+Action Type : Provided Part Creation
+Concerned Item : 25-vis-de-fixation (25-vis-de-fixation.2)
+Concerned Product/Fastener : 25-vis-de-fixation A.1 (25-vis-de-fixation.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 248
+Action Type : Provided Part Creation
+Concerned Item : 06-couronne-a-denture-ext (06-couronne-a-denture-ext.1)
+Concerned Product/Fastener : 06-couronne-a-denture-ext A.1 (06-couronne-a-denture-ext.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 249
+Action Type : Items Structure Creation
+Concerned Item : facade-arriere (facade-arriere.1)
+Concerned Product/Fastener : 
+Parent Item : prasant radial engine
+================================================================================
+Step : 250
+Action Type : Provided Part Creation
+Concerned Item : 27-douille-de-venturi (27-douille-de-venturi.2)
+Concerned Product/Fastener : 27-douille-de-venturi A.1 (27-douille-de-venturi.2)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 251
+Action Type : Provided Part Creation
+Concerned Item : 27-douille-de-venturi (27-douille-de-venturi.3)
+Concerned Product/Fastener : 27-douille-de-venturi A.1 (27-douille-de-venturi.3)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 252
+Action Type : Provided Part Creation
+Concerned Item : 27-douille-de-venturi (27-douille-de-venturi.4)
+Concerned Product/Fastener : 27-douille-de-venturi A.1 (27-douille-de-venturi.4)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 253
+Action Type : Provided Part Creation
+Concerned Item : 27-douille-de-venturi (27-douille-de-venturi.5)
+Concerned Product/Fastener : 27-douille-de-venturi A.1 (27-douille-de-venturi.5)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 254
+Action Type : Provided Part Creation
+Concerned Item : 27-douille-de-venturi (27-douille-de-venturi.6)
+Concerned Product/Fastener : 27-douille-de-venturi A.1 (27-douille-de-venturi.6)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 255
+Action Type : Provided Part Creation
+Concerned Item : 27-douille-de-venturi (27-douille-de-venturi.7)
+Concerned Product/Fastener : 27-douille-de-venturi A.1 (27-douille-de-venturi.7)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 256
+Action Type : Provided Part Creation
+Concerned Item : 03-carter-d'admission (03-carter-d'admission.1)
+Concerned Product/Fastener : 03-carter-d'admission A.1 (03-carter-d'admission.1)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 257
+Action Type : Provided Part Creation
+Concerned Item : 27-douille-de-venturi (27-douille-de-venturi.1)
+Concerned Product/Fastener : 27-douille-de-venturi A.1 (27-douille-de-venturi.1)
+Parent Item : facade-arriere (facade-arriere.1)
+================================================================================
+Step : 258
+Action Type : Provided Part Creation
+Concerned Item : 05-couronne (05-couronne.1)
+Concerned Product/Fastener : 05-couronne A.1 (05-couronne.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 259
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-ech (50-bloc-culbuteur-ech.3)
+Concerned Product/Fastener : 50-bloc-culbuteur-ech A.1 (50-bloc-culbuteur-ech.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 260
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-ech (50-bloc-culbuteur-ech.4)
+Concerned Product/Fastener : 50-bloc-culbuteur-ech A.1 (50-bloc-culbuteur-ech.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 261
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-ech (50-bloc-culbuteur-ech.5)
+Concerned Product/Fastener : 50-bloc-culbuteur-ech A.1 (50-bloc-culbuteur-ech.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 262
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-ech (50-bloc-culbuteur-ech.6)
+Concerned Product/Fastener : 50-bloc-culbuteur-ech A.1 (50-bloc-culbuteur-ech.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 263
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-ech (50-bloc-culbuteur-ech.7)
+Concerned Product/Fastener : 50-bloc-culbuteur-ech A.1 (50-bloc-culbuteur-ech.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 264
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.9)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.9)
+Parent Item : prasant radial engine
+================================================================================
+Step : 265
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.10)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.10)
+Parent Item : prasant radial engine
+================================================================================
+Step : 266
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.11)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.11)
+Parent Item : prasant radial engine
+================================================================================
+Step : 267
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.12)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.12)
+Parent Item : prasant radial engine
+================================================================================
+Step : 268
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.13)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.13)
+Parent Item : prasant radial engine
+================================================================================
+Step : 269
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.14)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.14)
+Parent Item : prasant radial engine
+================================================================================
+Step : 270
+Action Type : Provided Part Creation
+Concerned Item : 63-tubulure-d'echappement (63-tubulure-d'echappement.1)
+Concerned Product/Fastener : 63-tubulure-d'echappement A.1 (63-tubulure-d'echappement.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 271
+Action Type : Provided Part Creation
+Concerned Item : 62-tubulure-d'admission (62-tubulure-d'admission.1)
+Concerned Product/Fastener : 62-tubulure-d'admission A.1 (62-tubulure-d'admission.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 272
+Action Type : Provided Part Creation
+Concerned Item : Temp (Part1.1)
+Concerned Product/Fastener : Temp A.1 (Part1.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 273
+Action Type : Provided Part Creation
+Concerned Item : 02-carter-came (02-carter-came.2)
+Concerned Product/Fastener : 02-carter-came A.1 (02-carter-came.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 274
+Action Type : Provided Part Creation
+Concerned Item : 09-bielle (09-bielle.1)
+Concerned Product/Fastener : 09-bielle A.1 (09-bielle.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 275
+Action Type : Provided Part Creation
+Concerned Item : 33-piston (33-piston.2)
+Concerned Product/Fastener : 33-piston A.1 (33-piston.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 276
+Action Type : Provided Part Creation
+Concerned Item : 30-goupille (30-goupille.1)
+Concerned Product/Fastener : 30-goupille A.1 (30-goupille.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 277
+Action Type : Provided Part Creation
+Concerned Item : 31-goupille (31-goupille.2)
+Concerned Product/Fastener : 31-goupille A.1 (31-goupille.2)
+Parent Item : prasant radial engine
+================================================================================
+Step : 278
+Action Type : Provided Part Creation
+Concerned Item : 01-carter-vilebrequin (01-carter-vilebrequin.1)
+Concerned Product/Fastener : 01-carter-vilebrequin A.1 (01-carter-vilebrequin.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 279
+Action Type : Provided Part Creation
+Concerned Item : 33-piston (33-piston.3)
+Concerned Product/Fastener : 33-piston A.1 (33-piston.3)
+Parent Item : prasant radial engine
+================================================================================
+Step : 280
+Action Type : Provided Part Creation
+Concerned Item : 33-piston (33-piston.4)
+Concerned Product/Fastener : 33-piston A.1 (33-piston.4)
+Parent Item : prasant radial engine
+================================================================================
+Step : 281
+Action Type : Provided Part Creation
+Concerned Item : 33-piston (33-piston.5)
+Concerned Product/Fastener : 33-piston A.1 (33-piston.5)
+Parent Item : prasant radial engine
+================================================================================
+Step : 282
+Action Type : Provided Part Creation
+Concerned Item : 33-piston (33-piston.6)
+Concerned Product/Fastener : 33-piston A.1 (33-piston.6)
+Parent Item : prasant radial engine
+================================================================================
+Step : 283
+Action Type : Provided Part Creation
+Concerned Item : 33-piston (33-piston.7)
+Concerned Product/Fastener : 33-piston A.1 (33-piston.7)
+Parent Item : prasant radial engine
+================================================================================
+Step : 284
+Action Type : Provided Part Creation
+Concerned Item : 04-vilebrequin (04-vilebrequin.1)
+Concerned Product/Fastener : 04-vilebrequin A.1 (04-vilebrequin.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 285
+Action Type : Provided Part Creation
+Concerned Item : 59-culbuteur (59-culbuteur.1)
+Concerned Product/Fastener : 59-culbuteur A.1 (59-culbuteur.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 286
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-adm (50-bloc-culbuteur-adm.1)
+Concerned Product/Fastener : 50-bloc-culbuteur-adm A.1 (50-bloc-culbuteur-adm.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 287
+Action Type : Provided Part Creation
+Concerned Item : 58-tige-de-culbuteur (58-tige-de-culbuteur.1)
+Concerned Product/Fastener : 58-tige-de-culbuteur A.1 (58-tige-de-culbuteur.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 288
+Action Type : Provided Part Creation
+Concerned Item : 44-soupape (44-soupape.1)
+Concerned Product/Fastener : 44-soupape A.1 (44-soupape.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 289
+Action Type : Provided Part Creation
+Concerned Item : 28-bielle-mere (28-bielle-mere.1)
+Concerned Product/Fastener : 28-bielle-mere A.1 (28-bielle-mere.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 290
+Action Type : Provided Part Creation
+Concerned Item : 50-bloc-culbuteur-ech (50-bloc-culbuteur-ech.1)
+Concerned Product/Fastener : 50-bloc-culbuteur-ech A.1 (50-bloc-culbuteur-ech.1)
+Parent Item : prasant radial engine
+================================================================================
+Step : 291
+Action Type : Provided Part Creation
+Concerned Item : 33-piston (33-piston.1)
+Concerned Product/Fastener : 33-piston A.1 (33-piston.1)
+Parent Item : prasant radial engine
+================================================================================
